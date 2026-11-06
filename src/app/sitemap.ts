@@ -25,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       images: [`${siteConfig.url}/images/hero-tutor.webp`],
     },
     page("/about", 0.7),
-    page("/fees", 0.8),
+    page("/pricing", 0.8),
     page("/tutors", 0.8),
     page("/contact", 0.8),
   ]

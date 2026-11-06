@@ -23,6 +23,8 @@ const nextConfig: NextConfig = {
   /** adhyapakconnect.in is primary — send the .com domain (and www) there. */
   async redirects() {
     return [
+      /** The Fees page became Pricing. */
+      { source: "/fees", destination: "/pricing", permanent: true },
       {
         source: "/:path*",
         has: [{ type: "host", value: "(?:www\\.)?adhyapakconnect\\.com" }],

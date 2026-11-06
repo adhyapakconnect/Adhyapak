@@ -14,7 +14,7 @@ thin: they set metadata and render a page component from `src/static-pages`.
 ```
 src/
   app/                    # routes only — layout, page.tsx files, sitemap/robots/manifest, icons, OG image
-  static-pages/<page>/    # marketing/static pages (home, about, fees, tutors, contact, legal, grievance, not-found)
+  static-pages/<page>/    # marketing/static pages (home, about, pricing, tutors, contact, legal, grievance, not-found)
     <page>.tsx            # the page component
     components/           # sections used only by that page
     data.ts               # list-shaped copy for that page
@@ -37,7 +37,8 @@ BookYaar-Frontend. Nothing reaches across modules; shared code is promoted to
 
 - **Copy is approved and frozen.** Page wording is word for word from the
   client's demo in `Web-Demo/` (`adhyapak-connect-demo.html` for home,
-  `about.html`, `fees.html`, `tutors.html`, `contact.html`). Change layout and styling freely; change words
+  `about.html`, `tutors.html`, `contact.html`). Pricing follows the client's
+  revenue-model slide (`static-pages/pricing/data.ts`). Change layout and styling freely; change words
   only when the client asks.
 - **Contacts and links come from `@/config/site`**, never hard-coded. Parent and
   tutor leads stay separate: parent number for Call / WhatsApp / floating button,

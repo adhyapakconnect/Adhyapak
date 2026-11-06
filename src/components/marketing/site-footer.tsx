@@ -51,8 +51,8 @@ export function SiteFooter() {
           <div className="col-span-2 min-w-0 md:col-span-1">
             <h2 className={headCls}>Support</h2>
             <DemoLink className={linkCls}>Book Free Demo</DemoLink>
-            <Link href="/fees" className={linkCls}>
-              Fees
+            <Link href="/pricing" className={linkCls}>
+              Pricing
             </Link>
             <Link href="/contact#faq" className={linkCls}>
               FAQ
