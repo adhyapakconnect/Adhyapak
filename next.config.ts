@@ -20,17 +20,14 @@ const nextConfig: NextConfig = {
       },
     },
   },
-  /** adhyapakconnect.in is primary — send the .com domain (and www) there. */
+  /**
+   * adhyapakconnect.in is primary. adhyapakconnect.com serves the same site;
+   * canonical tags (metadataBase in app/layout.tsx) still point search engines at .in.
+   */
   async redirects() {
     return [
       /** The Fees page became Pricing. */
       { source: "/fees", destination: "/pricing", permanent: true },
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "(?:www\\.)?adhyapakconnect\\.com" }],
-        destination: "https://adhyapakconnect.in/:path*",
-        permanent: true,
-      },
       {
         source: "/:path*",
         has: [{ type: "host", value: "www\\.adhyapakconnect\\.in" }],

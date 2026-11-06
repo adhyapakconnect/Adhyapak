@@ -86,7 +86,8 @@ tokens in `src/app/globals.css`. Sizing uses Tailwind's stock scales.
 - `sitemap.ts`, `robots.ts`, `manifest.ts`, `icon.png`, `apple-icon.png`,
   `opengraph-image.png` live in `src/app`.
 - Legal + grievance pages are `noindex` until their final text arrives.
-- `.com` → `.in` and `www` → apex redirects are in `next.config.ts`.
+- `.com` serves the same site as `.in` (canonicals point to `.in`); the
+  `www.adhyapakconnect.in` → apex redirect is in `next.config.ts`.
 
 ## Commands
 
