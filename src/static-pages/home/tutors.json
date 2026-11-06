@@ -1,0 +1,421 @@
+[
+  {
+    "id": 10,
+    "name": "Aman M.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/32_271ace35-9309-4524-a60f-7d8542acdf05.jpg",
+    "qualification": "5 yrs experience",
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "classes": "6–8, 9–10",
+    "area": "Shalimar Bagh",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 500
+  },
+  {
+    "id": 64,
+    "name": "Rupal J.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/112_3a70bd13-3205-407b-b21c-cc0b0f93a417.png",
+    "qualification": "6 yrs experience",
+    "subjects": [
+      "Social Science",
+      "English",
+      "Geography"
+    ],
+    "classes": "6–8, 9–10, 11–12",
+    "area": "Shalimar Bagh",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 500
+  },
+  {
+    "id": 65,
+    "name": "Achintya U.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/114_21e837ab-94f5-4d35-9d9e-d59008fbfe14.jpg",
+    "qualification": "3 yrs experience",
+    "subjects": [
+      "All Subjects",
+      "English",
+      "Mathematics"
+    ],
+    "classes": "1–5, 6–8, 9–10",
+    "area": "Shalimar Bagh",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 500
+  },
+  {
+    "id": 106,
+    "name": "Priya G.",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocL2ZZ6lnN96l1mevdR5tXTfPhfO_jIWmo8hC88pWLUf_L2gHko=s600-c",
+    "qualification": "2 yrs experience",
+    "subjects": [
+      "Hindi",
+      "English",
+      "Mathematics"
+    ],
+    "classes": "1–5, 6–8",
+    "area": "Jahangirpuri",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Neha P.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/159_3a8999d8-d014-4761-bb22-4b4f4c670190.png",
+    "qualification": "New tutor",
+    "subjects": [
+      "Psychology",
+      "All Subjects"
+    ],
+    "classes": "1–5, 11–12",
+    "area": "Kalyan Vihar",
+    "languages": "Hindi, English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 2000
+  },
+  {
+    "id": 92,
+    "name": "Manzarik G.",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocJo-w_kLThIwLShO6LOw4MAIzS3gnu40RGqRSTMajkndiPbUhgA=s600-c",
+    "qualification": "3 yrs experience",
+    "subjects": [
+      "All Subjects"
+    ],
+    "classes": "1–5",
+    "area": "Shastri Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 650
+  },
+  {
+    "id": 41,
+    "name": "Shashank D.",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocJCGfrVLO0Ij34pIfWjlMnFncoXSJJEizKVg5T0IWf5KHiPP3-2=s600-c",
+    "qualification": "4 yrs experience",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Social Science"
+    ],
+    "classes": "6–8, 9–10, 11–12",
+    "area": "Mukherjee Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Prem K.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/128_23a20d9e-460f-4a5c-bed8-dc71e6ae750b.jpg",
+    "qualification": "2 yrs experience",
+    "subjects": [
+      "Hindi",
+      "English",
+      "Mathematics"
+    ],
+    "classes": "1–5, 6–8",
+    "area": "GTB Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home"
+    ],
+    "hourlyFee": 250
+  },
+  {
+    "id": 25,
+    "name": "Ritwij T.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/48_0e8161ea-b4a7-4cac-984d-6d60cc931293.jpg",
+    "qualification": "5 yrs experience",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Social Science"
+    ],
+    "classes": "9–10",
+    "area": "University Enclave",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 600
+  },
+  {
+    "id": 16,
+    "name": "Ankit S.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/38_7592668e-3d84-4e69-beac-b417e0299751.jpg",
+    "qualification": "9 yrs experience",
+    "subjects": [
+      "Hindi",
+      "English",
+      "Social Science"
+    ],
+    "classes": "9–10",
+    "area": "Mukherjee Nagar",
+    "languages": "Hindi, English",
+    "modes": [
+      "home",
+      "online"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Manish K.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/111_734b4446-50d1-416e-81b2-fe1a06c50d15.jpg",
+    "qualification": "7 yrs experience",
+    "subjects": [
+      "English",
+      "Mathematics",
+      "Science"
+    ],
+    "classes": "9–10",
+    "area": "Mukherjee Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Abhinav S.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/127_919098ba-6955-4ad8-998e-8d84f62c2735.jpg",
+    "qualification": "New tutor",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Computer Applications"
+    ],
+    "classes": "6–8",
+    "area": "Patel Nagar",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 200
+  },
+  {
+    "id": 108,
+    "name": "Jisha Y.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/168_fa2e1466-5c85-49bc-ba49-7fc861b7d418.jpg",
+    "qualification": "1 yr experience",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "English"
+    ],
+    "classes": "6–8",
+    "area": "Savitri Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 350
+  },
+  {
+    "id": 39,
+    "name": "Manisha",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/70_46a9f54e-0188-4ed3-ac99-5ed92b955a69.jpg",
+    "qualification": "New tutor",
+    "subjects": [
+      "Hindi",
+      "English",
+      "Mathematics"
+    ],
+    "classes": "6–8",
+    "area": "Uttam Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 600
+  },
+  {
+    "id": 60,
+    "name": "Bhanu Pratap Y.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/107_6a9a8249-fa36-454c-92cb-8ae65cadfe7c.jpg",
+    "qualification": "3 yrs experience",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Hindi"
+    ],
+    "classes": "9–10",
+    "area": "North Campus",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 400
+  },
+  {
+    "id": 87,
+    "name": "Nirbhay S.",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocK6H8yVLzhN4urOyHGrmKBlDykJXJpGSnxipilK4PW5gTXkT14i=s600-c",
+    "qualification": "4 yrs experience",
+    "subjects": [
+      "All Subjects"
+    ],
+    "classes": "1–5",
+    "area": "Nehru Nagar",
+    "languages": "English",
+    "modes": [
+      "online"
+    ],
+    "hourlyFee": 250
+  },
+  {
+    "id": 153,
+    "name": "Krishan K.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/233_9334abf3-0321-4151-9f52-13016c5fb717.jpg",
+    "qualification": "1 yr experience",
+    "subjects": [
+      "Political Science"
+    ],
+    "classes": "11–12",
+    "area": "JNU",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 600
+  },
+  {
+    "id": 127,
+    "name": "Prachi G.",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocLRXqNQs9w0k3Sn-50DPbC0O9cghKAFzewsiaokVQr9Ncy6jBM=s600-c",
+    "qualification": "2 yrs experience",
+    "subjects": [
+      "Business Studies",
+      "Economics",
+      "All Subjects"
+    ],
+    "classes": "1–5, 11–12",
+    "area": "Shahdara",
+    "languages": "English",
+    "modes": [
+      "online"
+    ],
+    "hourlyFee": 300
+  },
+  {
+    "id": 144,
+    "name": "Sachin C.",
+    "photo": "https://lh3.googleusercontent.com/a/ACg8ocIFZU4RW5-L80b7kdFTQ5brnPH5bZzBnw4h8hFYusfCpL_YKg6z=s600-c",
+    "qualification": "2 yrs experience",
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "classes": "9–10",
+    "area": "Dhaula Kuan",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 450
+  },
+  {
+    "id": 110,
+    "name": "Anshu",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/170_aad583c0-347c-43d1-b7b7-ef2292770b66.jpg",
+    "qualification": "1 yr experience",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Hindi"
+    ],
+    "classes": "11–12",
+    "area": "Uttam Nagar",
+    "languages": "Hindi, English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 800
+  },
+  {
+    "id": 146,
+    "name": "Ankush K.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/225_dee0b2d2-5fd5-4b4b-bc69-e3336f68e640.png",
+    "qualification": "3 yrs experience",
+    "subjects": [
+      "Mathematics",
+      "Science",
+      "Social Science"
+    ],
+    "classes": "9–10, 11–12",
+    "area": "Mandawali",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ],
+    "hourlyFee": 800
+  },
+  {
+    "id": 134,
+    "name": "Saksham J.",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/210_c3adfc04-661f-4943-8cbd-548f4fc70e38.png",
+    "qualification": "New tutor",
+    "subjects": [
+      "Economics",
+      "Business Studies",
+      "All Subjects"
+    ],
+    "classes": "1–5, 11–12",
+    "area": "Lajpat Nagar",
+    "languages": "English",
+    "modes": [
+      "home",
+      "online"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Shivani",
+    "photo": "https://bookyaar.s3.ap-south-1.amazonaws.com/profile-pictures/tutor/152_53bba57a-a6e6-4c7b-a710-24473550088f.jpg",
+    "qualification": "3 yrs experience",
+    "subjects": [
+      "All Subjects",
+      "Hindi",
+      "English"
+    ],
+    "classes": "1–5, 6–8, 9–10",
+    "area": "Chhotu Ram Nagar",
+    "languages": "English, Hindi",
+    "modes": [
+      "home",
+      "online"
+    ]
+  }
+]

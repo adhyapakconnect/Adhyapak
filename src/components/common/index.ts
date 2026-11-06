@@ -1,0 +1,7 @@
+export { Section, Container } from "./section"
+export { Eyebrow } from "./eyebrow"
+export { Heading, Accent } from "./heading"
+export { ReviewCheck } from "./review-check"
+export { BrandLogo, BrandMark } from "./brand-logo"
+export { JsonLd } from "./json-ld"
+export { WhatsAppIcon } from "./whatsapp-icon"
